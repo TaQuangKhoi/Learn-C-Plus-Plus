@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "28Tech___Set_Map___Bai_14.exe"
+			"path" : "Bai_1.exe"
 		},
 		{
-			"path" : "28Tech___Set_Map___Bai_14.pdb"
+			"path" : "Bai_1.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "28Tech___Set_Map___Bai_14::@6890427a1f51a3e7e1df",
+	"id" : "Bai_1::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "28Tech___Set_Map___Bai_14",
-	"nameOnDisk" : "28Tech___Set_Map___Bai_14.exe",
+	"name" : "Bai_1",
+	"nameOnDisk" : "Bai_1.exe",
 	"paths" : 
 	{
 		"build" : ".",
