@@ -1,0 +1,3 @@
+C:/My-Repo/GitHub/TaQuangKhoi/Learn/Learn-C-Plus-Plus/Learn C Plus Plus Basic/cmake-build-debug/CMakeFiles/Learn_C_Plus_Plus_Basic.dir
+C:/My-Repo/GitHub/TaQuangKhoi/Learn/Learn-C-Plus-Plus/Learn C Plus Plus Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My-Repo/GitHub/TaQuangKhoi/Learn/Learn-C-Plus-Plus/Learn C Plus Plus Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
